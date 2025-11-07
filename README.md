@@ -1,6 +1,19 @@
-## Hi there 👋
+## Hi there 👋 I'm Menny :)
 
-🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,js,powershell,wordpress"/>
+I’m passionate about **security diagnostics**, **network analysis**, and **software development**.
+Creator of **Secuditor**, a comprehensive endpoint and network security auditing tool.
+
+---
+
+## 🛠️ Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,mysql,powershell,visualstudio,wordpress,windows,github" />
 </p>
+
+---
+
+## 🌐 Connect & Follow
+[![Follow on GitHub](https://img.shields.io/github/followers/menylevinski?label=Follow%20Me&style=social)](https://github.com/menylevinski)
+[![Follow Secuditor](https://img.shields.io/badge/Follow-Secuditor-black?style=social&logo=github)](https://github.com/secuditor)
+
+---
