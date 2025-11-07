@@ -14,6 +14,7 @@ Creator of **Secuditor**, a comprehensive endpoint and network security auditing
 
 ## 🌐 Connect & Follow
 [![Follow on GitHub](https://img.shields.io/github/followers/mennylevinski?label=Follow%20Me&style=social)](https://github.com/menylevinski)
+
 [![Follow Secuditor](https://img.shields.io/badge/Follow-Secuditor-black?style=social&logo=github)](https://github.com/secuditor)
 
 ---
