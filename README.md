@@ -7,7 +7,7 @@ Creator of **[Secuditor Free](https://github.com/secuditor/secuditor-free)**, a 
 
 ## 🛠️ Technical Skills
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=azure,cloudflare,html,css,linux,kali,mysql,python,powershell,sqlite,visualstudio,wordpress,bots,windows,github"/>
+  <img src="https://skillicons.dev/icons?i=azure,cloudflare,linux,kali,github,mysql,python,powershell,visualstudio,windows,sqlite,html,css,wordpress,bots"/>
 </p>
 
 ---
