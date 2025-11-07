@@ -7,7 +7,7 @@ Creator of **Secuditor Free**, a comprehensive endpoint and network security aud
 
 ## 🛠️ Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=azure,cloudflare,linux,mysql,python,powershell,sqlite,visualstudio,wordpress,bots,windows,github"/>
+  <img src="https://skillicons.dev/icons?i=azure,cloudflare,html,css,linux,kali,mysql,python,powershell,sqlite,visualstudio,wordpress,bots,windows,github"/>
 </p>
 
 ---
