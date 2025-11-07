@@ -2,5 +2,5 @@
 
 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,json,github"/>
+  <img src="https://skillicons.dev/icons?i=python,mysql,js,powershell,wordpress"/>
 </p>
