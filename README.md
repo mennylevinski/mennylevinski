@@ -1,11 +1,11 @@
 ## 👋 Hi there, I'm Menny :)
 
-I’m passionate about **security diagnostics**, **network analysis**, and **software development**.
-Creator of **Secuditor Free**, a comprehensive endpoint and network security auditing tool.
+I’m passionate about **Security Diagnostics**, **Network Analysis**, and **Software Development**.
+Creator of **[Secuditor Free](https://github.com/secuditor/secuditor-free)**, a comprehensive endpoint and network diagnostic / forensic security tool.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 <p align="left">
   <img src="https://skillicons.dev/icons?i=azure,cloudflare,html,css,linux,kali,mysql,python,powershell,sqlite,visualstudio,wordpress,bots,windows,github"/>
 </p>
