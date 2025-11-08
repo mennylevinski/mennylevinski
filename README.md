@@ -1,7 +1,7 @@
 ## 👋 Hi there, I'm Menny :)
 
-I’m passionate about **Security Diagnostics**, **Network Analysis**, and **Software Development**.
-Creator of **[Secuditor Free](https://github.com/secuditor/secuditor-free)**, a comprehensive endpoint and network diagnostic / forensic security tool.
+I’m passionate about **Cybersecurity**, **Network Analysis**, and **Software Development**.
+Creator of **[Secuditor Free](https://github.com/secuditor/secuditor-free)**, a comprehensive security tool.
 
 ---
 
