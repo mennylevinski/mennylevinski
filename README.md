@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Menny :)
 
-I’m passionate about **Cybersecurity**, **Network Analysis**, and **Software Development**.
+I’m passionate about **Cybersecurity** and **Software Development**.
 Creator of **[Secuditor Free](https://github.com/secuditor/secuditor-free)**, a comprehensive security tool.
 
 ---
