@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="matrix-17974_512.gif" alt="Demo" width="400" height="200">
+  <img src="internet-6622.gif" alt="Demo" width="300" height="300">
 </p>
 
 ## 👋 Hi, I'm Menny :)
