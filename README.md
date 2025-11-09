@@ -24,11 +24,3 @@ Creator of **[Secuditor Free](https://github.com/secuditor/secuditor-free)**, a 
 <a href="https://www.linkedin.com/in/menny-levinski-b53708209/">
   <img src="linked-in-2668700_1920.png" width="30">
 </a>
-
-<a href="mailto:menny.levinski@secuditor.com">
-  <img src="email-157611_1280.png" width="30">
-</a>
-
-<a href="https://secuditor.com/">
-  <img src="internet-24984_640.png" width="30">
-</a>
