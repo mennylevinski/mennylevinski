@@ -1,4 +1,6 @@
-## 👋 Hi there, I'm Menny :)
+![Demo](matrix-17974_256.gif)
+
+## 👋 Hi, I'm Menny :)
 
 I’m passionate about **Cybersecurity** and **Software Development**.
 Creator of **[Secuditor Free](https://github.com/secuditor/secuditor-free)**, a comprehensive security tool.
