@@ -20,3 +20,10 @@ Creator of **[Secuditor Free](https://github.com/secuditor/secuditor-free)**, a 
 [![Follow on GitHub](https://img.shields.io/github/followers/mennylevinski?label=Follow%20Me&style=social)](https://github.com/menylevinski)
 
 [![Follow Secuditor](https://img.shields.io/badge/Follow-Secuditor-black?style=social&logo=github)](https://github.com/secuditor)
+
+<a href="mailto:menny.levinski@secuditor.com">
+  <img src="email-157611_1280.png" width="30">
+</a>
+<a href="https://www.linkedin.com/in/menny-levinski-b53708209/">
+  <img src="linked-in-2668700_1920.png" width="30">
+</a>
