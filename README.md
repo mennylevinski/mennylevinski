@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="caution-5064.gif" alt="Demo" width="300" height="300">
+  <img src="caution-5064.gif" alt="Demo" width="400" height="300">
 </p>
+
 ## 👋 Hi, I'm Menny :)
 
 I’m passionate about **Cybersecurity** and **Software Development**.
