@@ -30,5 +30,5 @@ Creator of **[Secuditor Free](https://github.com/secuditor/secuditor-free)**, a 
 </a>
 
 <a href="https://secuditor.com/">
-  <img src="social-349519_1920.png" width="30">
+  <img src="internet-24984_640.png" width="30">
 </a>
