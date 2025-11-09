@@ -1,4 +1,6 @@
-![Demo](matrix-17974_256.gif)
+<p align="center">
+  <img src="matrix-17974_256.gif" alt="Demo" width="300">
+</p>
 
 ## 👋 Hi, I'm Menny :)
 
