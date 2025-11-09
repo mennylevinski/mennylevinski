@@ -16,7 +16,7 @@ Creator of **[Secuditor Free](https://github.com/secuditor/secuditor-free)**, a 
 
 ---
 
-## 🌐 Connect & Follow
+## 🔗 Connect & Follow
 [![Follow on GitHub](https://img.shields.io/github/followers/mennylevinski?label=Follow%20Me&style=social)](https://github.com/menylevinski)
 
 [![Follow Secuditor](https://img.shields.io/badge/Follow-Secuditor-black?style=social&logo=github)](https://github.com/secuditor)
