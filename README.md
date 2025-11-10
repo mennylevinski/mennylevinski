@@ -1,10 +1,13 @@
 <p align="center">
-  <img src="internet-3443_512.gif" alt="Demo" width="256" height="200">
+  <img src="cat-13812.gif" alt="Demo" width="400" height="200">
+</p>
+<p align="center">
+  <img src="menny_animated_text.gif">
 </p>
 
-## 👋 Hi, I'm Menny :)
+## 💡 New Release
 
-Please consider checking and rating my newly released cybersecurity tool **[Secuditor Free](https://github.com/secuditor/secuditor-free)**, a diagnostic & forensic solution for Windows.
+Please consider checking and rating my newly released cybersecurity tool [Secuditor Free](https://github.com/secuditor/secuditor-free), a diagnostic & forensic solution for Windows.
 
 ---
 
@@ -22,4 +25,8 @@ Please consider checking and rating my newly released cybersecurity tool **[Secu
 
 <a href="https://www.linkedin.com/in/menny-levinski-b53708209/">
   <img src="linked-in-2668700_1920.png" width="30">
+</a>
+
+<a href="mailto:menny.levinski@secuditor.com">
+  <img src="gmail-6228341_1280.png" width="30">
 </a>
