@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="cat-13812.gif" alt="Demo" width="400" height="200">
+  <img src="programmer_10112025.gif" alt="Demo" width="600" height="400">
 </p>
 <p align="center">
   <img src="menny_animated_text.gif">
