@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="oldstyle_10112025.gif" alt="Demo" width="600" height="400">
+  <img src="programmer_10112025.gif" alt="Demo" width="600" height="400">
 </p>
 <p align="center">
-  <img src="menny_animated_text.gif">
+  <img src="menny_animated_text.gif" alt="Demo">
 </p>
 
 ## 💡 New Release
