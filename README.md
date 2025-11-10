@@ -4,7 +4,7 @@
 
 ## 👋 Hi, I'm Menny :)
 
-Please consider checking and rating my newly released cybersecurity tool **[Secuditor Free](https://github.com/secuditor/secuditor-free)**, a diagnostic and forensic solution for Windows endpoints and networks.
+Please consider checking and rating my newly released cybersecurity tool **[Secuditor Free](https://github.com/secuditor/secuditor-free)**, a diagnostic & forensic solution for Windows.
 
 ---
 
