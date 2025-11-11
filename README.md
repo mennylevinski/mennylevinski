@@ -1,9 +1,7 @@
-<p align="center">
+<div align="center" style="line-height: 0;">
   <img src="programmer_10112025.gif" alt="Demo" width="600" height="400">
-</p>
-<p align="center">
   <img src="menny_animated_text_57.gif" alt="Demo" width="600">
-</p>
+</div>
 
 ## 💡 New Release
 
