@@ -13,7 +13,7 @@ Please consider checking and rating my newly released cybersecurity tool [Secudi
 
 ## ⚙️ Technical Skills
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cloudflare,linux,kali,github,python,mysql,powershell,visualstudio,azure,windows,html,css,wordpress"/>
+  <img src="https://skillicons.dev/icons?i=cloudflare,linux,kali,github,python,powershell,mysql,visualstudio,azure,windows,html,css,wordpress"/>
 </p>
 
 ---
