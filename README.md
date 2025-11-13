@@ -17,8 +17,8 @@ Please consider checking and rating my newly released cybersecurity tool [Secudi
 ---
 
 ## 🌐 Connect & Follow
-<img src="https://komarev.com/ghpvc/?username=mennylevinski&&style=flat-square" align="center" />
-
-[![Follow on GitHub](https://img.shields.io/github/followers/mennylevinski?label=Follow%20Me&style=social)](https://github.com/menylevinski)
+[![Follow on GitHub](https://img.shields.io/badge/Follow-mennylevinski-black?style=social&logo=github)](https://github.com/menylevinski)
 
 [![Follow Secuditor](https://img.shields.io/badge/Follow-Secuditor-black?style=social&logo=github)](https://github.com/secuditor)
+
+<img src="https://komarev.com/ghpvc/?username=mennylevinski&&style=flat-square" align="center" />
