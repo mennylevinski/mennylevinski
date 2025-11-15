@@ -22,3 +22,5 @@ Please consider checking and rating my newly released cybersecurity tool [Secudi
 [![Follow Secuditor](https://img.shields.io/badge/Follow-Secuditor-black?style=social&logo=github)](https://github.com/secuditor)
 
 <img src="https://komarev.com/ghpvc/?username=mennylevinski&&style=flat-square" align="center" />
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mennylevinski&show_icons=true&theme=dark&rank_icon=github)
