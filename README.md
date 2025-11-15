@@ -23,4 +23,4 @@ Please consider checking and rating my newly released cybersecurity tool [Secudi
 
 <img src="https://komarev.com/ghpvc/?username=mennylevinski&&style=flat-square" align="center" />
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mennylevinski&show_icons=true&theme=dark&rank_icon=github)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mennylevinski&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
