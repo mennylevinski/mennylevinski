@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */12 * * *"   # runs every 12 hours
   workflow_dispatch:
 
 permissions:
@@ -17,18 +17,17 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate snake (light mode)
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3
         with:
           github_user_name: mennylevinski
           outputs: dist/github-contribution-grid-snake.svg
-          args: "--color-snake #00FF00 --color-frame #00FF00 --background-color transparent"
 
       - name: Generate snake (dark mode)
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3
         with:
           github_user_name: mennylevinski
           outputs: dist/github-contribution-grid-snake-dark.svg
-          args: "--color-snake #00FF00 --color-frame #00FF00 --background-color transparent"
+          color_snake: "#FFFFFF"
 
       - name: Commit and push SVGs
         uses: EndBug/add-and-commit@v9
@@ -37,5 +36,3 @@ jobs:
           message: "Update snake animation"
           author_name: github-actions
           author_email: github-actions@github.com
-          push: true
-          force: true
