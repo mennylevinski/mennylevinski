@@ -1,28 +1,30 @@
-name: Generate Snake Animation
-
-permissions:
-  contents: write
+name: Generate Snake
 
 on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
+permissions:
+  contents: write
 
+jobs:
+  generate:
+    runs-on: ubuntu-latest
     steps:
-      - name: Generate Snake
-        uses: Platane/snk@v3
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Generate snake SVG
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: mennylevinski
           outputs: dist/snake.svg
 
-      - name: Push snake to repo
+      - name: Commit and push changes
         uses: EndBug/add-and-commit@v9
         with:
+          add: "dist/snake.svg"
           author_name: github-actions
           author_email: github-actions@github.com
           message: "Update snake animation"
-          add: "dist/snake.svg"
