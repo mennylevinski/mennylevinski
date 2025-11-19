@@ -16,23 +16,9 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate snake (light mode)
-        uses: Platane/snk@v3
-        with:
-          github_user_name: mennylevinski
-          outputs: dist/github-contribution-grid-snake.svg
-
       - name: Generate snake (dark mode)
         uses: Platane/snk@v3
         with:
           github_user_name: mennylevinski
           outputs: dist/github-contribution-grid-snake-dark.svg
           color_snake: "#FFFFFF"
-
-      - name: Commit and push SVGs
-        uses: EndBug/add-and-commit@v9
-        with:
-          add: "dist/github-contribution-grid-snake*.svg"
-          message: "Update snake animation"
-          author_name: github-actions
-          author_email: github-actions@github.com
