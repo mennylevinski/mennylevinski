@@ -16,9 +16,9 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate snake (dark mode)
-        uses: Platane/snk@v3
-        with:
-          github_user_name: mennylevinski
-          outputs: dist/github-contribution-grid-snake-dark.svg
-          color_snake: "#FFFFFF"
+     - name: Generate snake (dark mode)
+       uses: Platane/snk@v3
+       with:
+         github_user_name: mennylevinski
+         outputs: dist/github-contribution-grid-snake-dark.svg
+         palette: "github-dark"
