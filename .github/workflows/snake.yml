@@ -22,10 +22,4 @@ jobs:
           github_user_name: mennylevinski
           outputs: dist/github-contribution-grid-snake-dark.svg
           args: |
-            --palette '{
-              "colors": {
-                "snake": "#00FF00",
-                "background": "#000000",
-                "grid": "#001100"
-              }
-            }'
+            --config '{"color_snake": "#00FF00", "color_background": "#000000", "color_grid": "#003300"}'
