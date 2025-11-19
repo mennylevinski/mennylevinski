@@ -16,24 +16,23 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      # ---------- Light Mode ----------
       - name: Generate snake (light mode)
-        uses: Platane/snk@v3
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: mennylevinski
           outputs: dist/github-contribution-grid-snake.svg
-          color_snake: "#00FF00"           # snake color
-          background_color: "transparent"   # remove white squares
-          color_frame: "#00FF00"            # green frame
+          args: "--color-snake #00FF00 --color-frame #00FF00 --background-color transparent"
 
+      # ---------- Dark Mode ----------
       - name: Generate snake (dark mode)
-        uses: Platane/snk@v3
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: mennylevinski
           outputs: dist/github-contribution-grid-snake-dark.svg
-          color_snake: "#00FF00"           # bright green snake
-          background_color: "transparent"   # transparent empty cells
-          color_frame: "#00FF00"            # green frame
+          args: "--color-snake #00FF00 --color-frame #00FF00 --background-color transparent"
 
+      # ---------- Commit and Push ----------
       - name: Commit and push SVGs
         uses: EndBug/add-and-commit@v9
         with:
@@ -41,3 +40,5 @@ jobs:
           message: "Update snake animation"
           author_name: github-actions
           author_email: github-actions@github.com
+          push: true
+          force: true
