@@ -21,13 +21,18 @@ jobs:
         with:
           github_user_name: mennylevinski
           outputs: dist/github-contribution-grid-snake.svg
+          color_snake: "#00FF00"           # snake color
+          background_color: "transparent"   # remove white squares
+          color_frame: "#00FF00"            # green frame
 
       - name: Generate snake (dark mode)
         uses: Platane/snk@v3
         with:
           github_user_name: mennylevinski
           outputs: dist/github-contribution-grid-snake-dark.svg
-          color_snake: "#FFFFFF"
+          color_snake: "#00FF00"           # bright green snake
+          background_color: "transparent"   # transparent empty cells
+          color_frame: "#00FF00"            # green frame
 
       - name: Commit and push SVGs
         uses: EndBug/add-and-commit@v9
