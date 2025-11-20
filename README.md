@@ -5,7 +5,7 @@
 
 ## 💡 New Release
 
-Please consider checking and rating my newly released cybersecurity tool [Secuditor Free](https://github.com/secuditor/secuditor-free), a diagnostic & forensic solution for Windows.
+[Secuditor Free](https://github.com/secuditor/secuditor-free) - a diagnostic security tool for Windows.
 
 ---
 
