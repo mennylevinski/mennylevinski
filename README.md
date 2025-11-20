@@ -5,7 +5,7 @@
 
 ## 💡 New Release
 
-[Secuditor Free](https://github.com/secuditor/secuditor-free) - a diagnostic security tool for Windows.
+[Secuditor Free](https://github.com/secuditor/secuditor-free) - a diagnostic security tool for Windows endpoints and networks.
 
 ---
 
