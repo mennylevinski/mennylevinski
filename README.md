@@ -1,6 +1,6 @@
 <div align="center" style="line-height: 0;">
-  <img src="programmer_10112025.gif" alt="Demo" width="600" height="400">
-  <img src="menny_animated_text_76.gif" alt="Demo" width="600">
+  <img src="gifs/programmer_10112025.gif" alt="Demo" width="600" height="400">
+  <img src="gifs/menny_animated_text_64.gif" alt="Demo" width="600">
 </div>
 
 ## 💡 New Release
