@@ -21,7 +21,7 @@
 
 [![Follow Secuditor](https://img.shields.io/badge/Follow-Secuditor-black?style=social&logo=github)](https://github.com/secuditor)
 
-<img src="https://komarev.com/ghpvc/?username=mennylevinski&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=mennylevinski&&style=flat" align="center" />
 
 <picture>
   <source
