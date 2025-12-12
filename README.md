@@ -10,7 +10,7 @@
 ---
 
 ## ⚙️ Technical Skills
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=cloudflare,linux,kali,github,python,powershell,mysql,visualstudio,azure,windows,html,css,wordpress,bots"/>
 </p>
 
