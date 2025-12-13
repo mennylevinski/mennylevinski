@@ -3,7 +3,7 @@
 </div>
 
 <div align="center" style="line-height: 0;">
-  <a href="https://secuditor.com/#whatwedo">
+  <a href="https://github.com/mennylevinski">
     <img src="gifs/secuditor.com-logo-transparent.png" alt="Secuditor Logo" width="500" height="150">
   </a>
 </div>
@@ -32,14 +32,16 @@
 
 <img src="https://komarev.com/ghpvc/?username=mennylevinski&&style=flat" align="center" />
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/mennylevinski/mennylevinski/main/dist/github-contribution-grid-snake-dark.svg" />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/mennylevinski/mennylevinski/main/dist/github-contribution-grid-snake.svg" />
-  <img
-    alt="Snake animation"
-    src="https://raw.githubusercontent.com/mennylevinski/mennylevinski/main/dist/github-contribution-grid-snake.svg" />
-</picture>
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/mennylevinski/mennylevinski/main/dist/github-contribution-grid-snake-dark.svg" />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/mennylevinski/mennylevinski/main/dist/github-contribution-grid-snake.svg" />
+    <img
+      alt="Snake animation"
+      src="https://raw.githubusercontent.com/mennylevinski/mennylevinski/main/dist/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
