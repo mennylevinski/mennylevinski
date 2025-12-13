@@ -1,11 +1,20 @@
 <div align="center" style="line-height: 0;">
   <img src="gifs/programmer_10112025.gif" alt="Demo" width="600" height="400">
-  <img src="gifs/Hello-there-I-m-Menny-Python.gif" alt="Demo" width="500" height="100">
+</div>
+
+<div align="center" style="line-height: 0;">
+  <a href="https://secuditor.com/#whatwedo">
+    <img src="gifs/secuditor.com-logo-transparent.png" alt="Secuditor Logo" width="500" height="150">
+  </a>
+</div>
+
+<div align="center" style="line-height: 0;">
+<img src="gifs/Hello-there-I-m-Menny-Python.gif" alt="Demo" width="500" height="100">
 </div>
 
 ## 💡 New Release
 
-**[Secuditor Free](https://github.com/secuditor/secuditor-free)** is a new diagnostic security tool for Windows endpoints and networks.
+**[Secuditor Free](https://github.com/secuditor/secuditor-free)** is a diagnostic security tool for Windows systems that helps identify vulnerabilities and enhance security awareness for both personal and organizational environments.
 
 ---
 
