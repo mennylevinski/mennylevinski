@@ -9,7 +9,9 @@
 </div>
 
 <div align="center" style="line-height: 0;">
-<img src="gifs/Hello-there-I-m-Menny-Python.gif" alt="Demo" width="500" height="100">
+  <a href="https://github.com/mennylevinski">
+    <img src="gifs/Hello-there-I-m-Menny-Python.gif" alt="Demo" width="500" height="100">
+  </a>
 </div>
 
 ## 💡 New Release
