@@ -17,7 +17,7 @@
 
 ## 💡 New Release
 
-**[Secuditor Free](https://github.com/secuditor/secuditor-free)** is a diagnostic security tool for Windows that helps people learn about cybersecurity via friendly GUI.
+**[Secuditor Free](https://github.com/secuditor/secuditor-free)** is a diagnostic security tool for Windows endpoints that helps identify vulnerabilities and improve security awareness.
 
 ---
 
