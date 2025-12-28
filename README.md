@@ -2,13 +2,7 @@
     <img src="gifs/programmer_10112025.gif" alt="Demo" width="600" height="400">
   </a>
 </div>
-
-<div align="center" style="line-height: 0;">
-  <a href="https://github.com/secuditor">
-    <img src="gifs/Secuditor-logo-transparent2.png" alt="Secuditor Logo" width="500" height="150">
-  </a>
-</div>
-
+<br>
 <div align="center" style="line-height: 0;">
   <a href="https://github.com/mennylevinski">
     <img src="gifs/Hello-there-I-m-Menny-Python.gif" alt="Demo" width="500" height="100">
