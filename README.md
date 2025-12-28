@@ -1,12 +1,12 @@
 <div align="center" style="line-height: 0;">
-  <a href="https://github.com/mennylevinski">
+  <a href="https://github.com/secuditor">
     <img src="gifs/programmer_10112025.gif" alt="Demo" width="600" height="400">
   </a>
 </div>
 
 <div align="center" style="line-height: 0;">
   <a href="https://secuditor.com/#whatwedo">
-    <img src="gifs/secuditor.com-logo-transparent_cut.png" alt="Secuditor Logo" width="500" height="150">
+    <img src="gifs/Secuditor-logo-transparent2.png" alt="Secuditor Logo" width="500" height="150">
   </a>
 </div>
 
