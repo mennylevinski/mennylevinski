@@ -6,7 +6,7 @@
 <br>
 
 <div align="center" style="line-height: 0;">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=435&lines=Hello+there%2C+I'm+Menny;Python+developer+and+creator" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lexend&size=28&pause=1500&width=450&lines=Hello+there%2C+I'm+Menny;Python+developer+and+creator" alt="Typing SVG" /></a>
 </div>
 
 ## 💡 New Release
