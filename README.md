@@ -2,11 +2,11 @@
     <img src="gifs/programmer_10112025.gif" alt="Demo" width="600" height="400">
   </a>
 </div>
+
 <br>
+
 <div align="center" style="line-height: 0;">
-  <a href="https://github.com/mennylevinski">
-    <img src="gifs/Hello-there-I-m-Menny-Python.gif" alt="Demo" width="500" height="100">
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=435&lines=Hello+there%2C+I'm+Menny;Python+developer+and+creator" alt="Typing SVG" /></a>
 </div>
 
 ## 💡 New Release
