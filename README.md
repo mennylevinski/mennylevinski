@@ -6,7 +6,7 @@
 <br>
 
 <div align="center" style="line-height: 0;">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lexend&size=24&pause=1500&color=2999F7&width=475&lines=Hello+there%2C+I'm+Menny+Levinski;Security+engineer+and+Python+developer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lexend&size=24&pause=1500&color=2999F7&width=475&lines=%F0%9F%91%8B+Hello+there%2C+I'm+Menny+Levinski;Security+engineer+and+Python+developer" alt="Typing SVG" /></a>
 </div>
 
 ## 💡 New Release
