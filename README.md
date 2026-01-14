@@ -25,11 +25,11 @@
 ---
 
 ## 🌐 Connect & Follow
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://vshymanskyy.github.io/StandWithUkraine)
+
 [![Follow on GitHub](https://img.shields.io/badge/Follow-mennylevinski-black?style=social&logo=github)](https://github.com/menylevinski)
 
 [![Follow Secuditor](https://img.shields.io/badge/Follow-Secuditor-black?style=social&logo=github)](https://github.com/secuditor)
-
-<img src="https://komarev.com/ghpvc/?username=mennylevinski&&style=flat" align="center" />
 
 <div align="center">
   <picture>
