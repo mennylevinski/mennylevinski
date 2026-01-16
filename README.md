@@ -1,6 +1,7 @@
 <div align="center" style="line-height: 0;">
-    <img src="gifs/programmer_10112025.gif" alt="Demo" width="600" height="400">
-  </a>
+    <a href="https://github.com/mennylevinski/mennylevinski">
+        <img src="gifs/programmer_10112025.gif" alt="Demo" width="600" height="400">
+    </a>
 </div>
 
 <br>
