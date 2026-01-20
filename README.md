@@ -14,7 +14,7 @@
 
 **[Secuditor Lite](https://github.com/secuditor/secuditor-lite)** – a diagnostic security tool for Windows endpoints that helps identify vulnerabilities and improve security awareness.
 
-**[Secuditor Scripts](https://github.com/secuditor/secuditor-scripts)** – a partial collection of open source Python scripts developed for the Secuditor project.
+**[Secuditor Modules](https://github.com/secuditor/secuditor-modules)** – a partial collection of open source Python scripts developed for the Secuditor project.
 
 ---
 
