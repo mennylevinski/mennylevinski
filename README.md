@@ -12,7 +12,7 @@
 
 ## 💡 New Release
 
-**[Secuditor Lite](https://github.com/secuditor/secuditor-lite)** – free diagnostic security tool for Windows endpoints that helps identify vulnerabilities and improve security awareness.
+**[Secuditor Lite](https://github.com/secuditor/secuditor-lite)** – free diagnostic security tool for Windows endpoints that helps identify vulnerabilities and improve device OpSec.
 
 **[Secuditor Modules](https://github.com/secuditor/secuditor-modules)** – an open source collection of standalone Python modules developed as part of the Secuditor project.
 
