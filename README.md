@@ -14,6 +14,8 @@
 
 **[Secuditor Lite](https://github.com/secuditor/secuditor-lite)** – free Python based diagnostic security tool for Windows endpoints and networks with a friendly GUI
 
+<br>
+
 ---
 
 ## ⚙️ Technical Skills
