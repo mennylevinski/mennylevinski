@@ -12,7 +12,7 @@
 
 ## 💡 New Release
 
-**[Secuditor Lite](https://github.com/secuditor/secuditor-lite)** – free diagnostic security tool for Windows endpoints that helps identify vulnerabilities and improve device OpSec.
+**[Secuditor Lite](https://github.com/secuditor/secuditor-lite)** – free diagnostic security tool for Windows endpoints and networks with a friendly GUI
 
 ---
 
