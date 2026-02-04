@@ -1,5 +1,5 @@
 <div align="center" style="line-height: 0;">
-    <a href="https://github.com/mennylevinski/mennylevinski">
+    <a href="https://github.com/mennylevinski">
         <img src="gifs/programmer_10112025.gif" alt="Demo" width="600" height="400">
     </a>
 </div>
