@@ -1,6 +1,6 @@
 <div align="center" style="line-height: 0;">
     <a href="https://github.com/mennylevinski">
-        <img src="gifs/programmer_10112025.gif" alt="Demo" width="600" height="400">
+        <img src="gifs/ChatGPT_Image _Menny.png" alt="Demo" width="600" height="400">
     </a>
 </div>
 
