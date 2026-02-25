@@ -16,14 +16,14 @@
 
 ---
 
-## 👨‍💻 Technical Skills
+## 🛠️ Technical Skills
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cloudflare,linux,kali,github,python,powershell,mysql,visualstudio,azure,windows,html,css,wordpress,bots"/>
 </p>
 
 ---
 
-## 🌐 Connect & Follow
+## ✉️ Connect & Follow
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://vshymanskyy.github.io/StandWithUkraine)
 
 [![Follow on GitHub](https://img.shields.io/badge/Follow-mennylevinski-black?style=social&logo=github)](https://github.com/menylevinski)
