@@ -23,7 +23,7 @@
 
 ---
 
-## ✉️ Connect & Follow
+## 🤝 Connect & Follow
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://vshymanskyy.github.io/StandWithUkraine)
 
 [![Follow on GitHub](https://img.shields.io/badge/Follow-mennylevinski-black?style=social&logo=github)](https://github.com/menylevinski)
