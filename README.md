@@ -6,11 +6,11 @@
 
 <br>
 
-<div align="center" style="line-height: 0;">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lexend&size=25&pause=2000&color=2999F7&width=500&lines=%F0%9F%91%8B+Hello+there%2C+I'm+Menahem+Levinski;Security+engineer+and+Python+developer" alt="Typing SVG" /></a>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Menahem%20Levinski&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Security%20Engineer%20%7C%20Python%20Developer%20%7C%20Building%20cybersecurity%20tools&descAlignY=58&descColor=a8b2d8&animation=fadeIn" width="60%"/>
 </div>
 
-<br><br>
+<br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/menny-levinski-b53708209" target="_blank">
@@ -39,11 +39,17 @@
 
 <br>
 
+<h3 align="center">Secuditor: A free diagnostic security tool for Windows</h3>
+
 <div align="center" style="line-height: 0;">
     <a href="https://github.com/secuditor/secuditor-lite">
         <img src="img/secuditor_cover_official.png" alt="Secuditor" width="600" height="400">
     </a>
 </div>
+
+<br>
+
+<h3 align="center">Uspector: A network scanner, LAN discovery & port audit</h3>
 
 <div align="center" style="line-height: 0;">
     <a href="https://github.com/mennylevinski/uspector-net">
