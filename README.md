@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/DEV.to-3B49DF?style=for-the-badge&logo=dev.to&logoColor=white" />
   </a>
   <a href="https://x.com/mennylevinski" target="_blank">
-    <img src="https://img.shields.io/badge/Follow-000000?style=for-the-badge&logo=x&logoColor=white" />
+    <img src="https://img.shields.io/badge/Menny-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </div>
 
