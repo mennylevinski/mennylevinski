@@ -1,6 +1,6 @@
 <div align="center" style="line-height: 0;">
     <a href="https://github.com/mennylevinski">
-        <img src="img/readme_image_menny.png" alt="Menahem" width="600" height="400">
+        <img src="img/menny_image_readme.png" alt="Menahem" width="600" height="400">
     </a>
 </div>
 
