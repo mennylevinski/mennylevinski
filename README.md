@@ -10,6 +10,16 @@
     </a>
 </div>
 
+<h3 align="center">About me</h3>
+
+<p align="center">
+  I'm an experienced security engineer, having worked for financial institutions and global companies.
+</p>
+
+<p align="center">
+  I've seen many cyber incidents and learned a lot about the challenges of the Windows environment.
+</p>
+
 <br><br>
 
 <div align="center">
@@ -39,22 +49,16 @@
 
 <br>
 
-<h3 align="center">Secuditor: A free diagnostic security tool for Windows</h3>
-
-<div align="center" style="line-height: 0;">
-    <a href="https://github.com/secuditor/secuditor-lite">
-        <img src="img/secuditor_cover_official.png" alt="Secuditor" width="600" height="400">
-    </a>
+<div align="center">
+  <a href="https://github.com/secuditor/secuditor-lite" title="Secuditor Lite - free diagnostic security tool for Windows">
+    <img src="img/secuditor_cover_official.png" alt="Secuditor" width="600" height="400" title="Secuditor Lite - Security auditing tool for Windows">
+  </a>
 </div>
 
-<br>
-
-<h3 align="center">Uspector: A network scanner, LAN discovery & port audit</h3>
-
-<div align="center" style="line-height: 0;">
-    <a href="https://github.com/mennylevinski/uspector-net">
-        <img src="img/uspector_cover_official.png" alt="Uspector" width="600" height="400">
-    </a>
+<div align="center">
+  <a href="https://github.com/mennylevinski/uspector-net" title="Uspector - Network scanner, LAN discovery & port audit">
+    <img src="img/uspector_cover_official.png" alt="Uspector" width="600" height="400">
+  </a>
 </div>
 
 <br>
