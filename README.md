@@ -49,9 +49,13 @@
 
 <br>
 
+---
+
+<br>
+
 <p align="center"> 
   <a href="https://github.com/ffctr"> 
-    <img src="https://streak-stats.demolab.com?user=mennylevinski&theme=tokyonight&hide_border=true&border_radius=12" height="170"/> 
+    <img src="https://streak-stats.demolab.com?user=mennylevinski&theme=tokyonight&hide_border=true&border_radius=12" width="60%" /> 
   </a> 
 </p>
 
