@@ -10,8 +10,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lexend&size=25&pause=2000&color=2999F7&width=500&lines=%F0%9F%91%8B+Hello+there%2C+I'm+Menny+Levinski;Security+engineer+and+Python+developer" alt="Typing SVG" /></a>
 </div>
 
-**[Secuditor Lite](https://github.com/secuditor/secuditor-lite)** – free Python based diagnostic security tool for Windows endpoints and networks with a friendly GUI
-
 ---
 
 <br>
