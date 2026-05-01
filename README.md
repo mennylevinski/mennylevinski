@@ -8,7 +8,7 @@
     </a>
 </div>
 
-<br>
+<br><br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/menny-levinski-b53708209" target="_blank">
