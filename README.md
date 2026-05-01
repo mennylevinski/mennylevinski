@@ -1,6 +1,18 @@
 <div align="center" style="line-height: 0;">
+    <a href="https://github.com/secuditor/secuditor-lite">
+        <img src="img/readme_image_menny.png" alt="Menahem" width="600" height="400">
+    </a>
+</div>
+
+<div align="center" style="line-height: 0;">
     <a href="https://github.com/mennylevinski">
-        <img src="img/main_image_menny.png" alt="Demo" width="600" height="400">
+        <img src="img/secuditor_cover_official.png" alt="Secuditor" width="600" height="400">
+    </a>
+</div>
+
+<div align="center" style="line-height: 0;">
+    <a href="https://github.com/mennylevinski/uspector-net">
+        <img src="img/uspector_cover_official.png" alt="Uspector" width="600" height="400">
     </a>
 </div>
 
