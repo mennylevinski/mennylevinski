@@ -18,7 +18,7 @@
   <img src="https://skillicons.dev/icons?i=cloudflare,linux,kali,github,python,powershell,mysql,visualstudio,azure,windows,html,css,wordpress,bots"/>
 </p>
 
----
+<br><br>
 
 <p align="center"> 
   <a href="https://github.com/ffctr"> 
@@ -26,7 +26,7 @@
   </a> 
 </p>
 
----
+<br>
 
 <div align="center">
   <picture>
