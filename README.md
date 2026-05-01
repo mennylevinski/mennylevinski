@@ -1,13 +1,11 @@
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Menahem%20Levinski&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Security%20Engineer%20%7C%20Python%20Developer%20%7C%20Building%20cybersecurity%20tools&descAlignY=58&descColor=a8b2d8&animation=fadeIn" width="100%"/>
+</div>
+
 <div align="center" style="line-height: 0;">
     <a href="https://github.com/mennylevinski">
         <img src="img/menny_image_readme.png" alt="Menahem" width="600" height="400">
     </a>
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Menahem%20Levinski&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Security%20Engineer%20%7C%20Python%20Developer%20%7C%20Building%20cybersecurity%20tools&descAlignY=58&descColor=a8b2d8&animation=fadeIn" width="60%"/>
 </div>
 
 <br>
