@@ -1,5 +1,5 @@
 <div align="center" style="line-height: 0;">
-    <a href="https://github.com/secuditor/secuditor-lite">
+    <a href="https://github.com/mennylevinski">
         <img src="img/readme_image_menny.png" alt="Menahem" width="600" height="400">
     </a>
 </div>
@@ -34,7 +34,7 @@
 ---
 
 <div align="center" style="line-height: 0;">
-    <a href="https://github.com/mennylevinski">
+    <a href="https://github.com/secuditor/secuditor-lite">
         <img src="img/secuditor_cover_official.png" alt="Secuditor" width="600" height="400">
     </a>
 </div>
