@@ -50,7 +50,7 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/secuditor/secuditor-lite" title="Secuditor Lite – free diagnostic security tool for Windows">
+  <a href="https://github.com/secuditor/secuditor-lite" title="Secuditor Lite – Free diagnostic security tool for Windows">
     <img src="img/secuditor_cover_official.png" alt="Secuditor" width="600" height="400">
   </a>
 </div>
