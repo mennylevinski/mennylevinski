@@ -10,7 +10,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lexend&size=25&pause=2000&color=2999F7&width=500&lines=%F0%9F%91%8B+Hello+there%2C+I'm+Menahem+Levinski;Security+engineer+and+Python+developer" alt="Typing SVG" /></a>
 </div>
 
-<br>
+<br><br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/menny-levinski-b53708209" target="_blank">
@@ -27,21 +27,23 @@
   </a>
 </div>
 
-<br>
+<br><br>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cloudflare,linux,kali,github,python,powershell,mysql,visualstudio,azure,windows,html,css,wordpress,bots"/>
 </p>
 
+<br>
+
 ---
+
+<br>
 
 <div align="center" style="line-height: 0;">
     <a href="https://github.com/secuditor/secuditor-lite">
         <img src="img/secuditor_cover_official.png" alt="Secuditor" width="600" height="400">
     </a>
 </div>
-
-<br>
 
 <div align="center" style="line-height: 0;">
     <a href="https://github.com/mennylevinski/uspector-net">
