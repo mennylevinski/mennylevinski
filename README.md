@@ -50,13 +50,13 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/secuditor/secuditor-lite" title="Secuditor Lite - free diagnostic security tool for Windows">
-    <img src="img/secuditor_cover_official.png" alt="Secuditor" width="600" height="400" title="Secuditor Lite - Security auditing tool for Windows">
+  <a href="https://github.com/secuditor/secuditor-lite" title="Secuditor Lite – free diagnostic security tool for Windows">
+    <img src="img/secuditor_cover_official.png" alt="Secuditor" width="600" height="400">
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/mennylevinski/uspector-net" title="Uspector - Network scanner, LAN discovery & port audit">
+  <a href="https://github.com/mennylevinski/uspector-net" title="Uspector – Network scanner, LAN discovery & port audit">
     <img src="img/uspector_cover_official.png" alt="Uspector" width="600" height="400">
   </a>
 </div>
