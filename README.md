@@ -10,31 +10,23 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lexend&size=25&pause=2000&color=2999F7&width=500&lines=%F0%9F%91%8B+Hello+there%2C+I'm+Menny+Levinski;Security+engineer+and+Python+developer" alt="Typing SVG" /></a>
 </div>
 
-<p align="center"> 
-  <a href="https://github.com/ffctr"> 
-    <img src="https://streak-stats.demolab.com?user=mennylevinski&theme=tokyonight&hide_border=true&border_radius=12" height="170"/> 
-  </a> 
-</p>
-
-## 💡 New Release
-
 **[Secuditor Lite](https://github.com/secuditor/secuditor-lite)** – free Python based diagnostic security tool for Windows endpoints and networks with a friendly GUI
 
 ---
 
-## 🛠️ Technical Skills
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cloudflare,linux,kali,github,python,powershell,mysql,visualstudio,azure,windows,html,css,wordpress,bots"/>
 </p>
 
 ---
 
-## 🤝 Connect & Follow
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://vshymanskyy.github.io/StandWithUkraine)
+<p align="center"> 
+  <a href="https://github.com/ffctr"> 
+    <img src="https://streak-stats.demolab.com?user=mennylevinski&theme=tokyonight&hide_border=true&border_radius=12" height="170"/> 
+  </a> 
+</p>
 
-[![Follow on GitHub](https://img.shields.io/badge/Follow-mennylevinski-black?style=social&logo=github)](https://github.com/menylevinski)
-
-[![Follow Secuditor](https://img.shields.io/badge/Follow-Secuditor-black?style=social&logo=github)](https://github.com/secuditor)
+---
 
 <div align="center">
   <picture>
@@ -49,5 +41,3 @@
       src="https://raw.githubusercontent.com/mennylevinski/mennylevinski/main/dist/github-contribution-grid-snake.svg" />
   </picture>
 </div>
-
-<br> [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mennylevinski&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
