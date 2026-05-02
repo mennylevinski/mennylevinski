@@ -13,11 +13,11 @@
 <h2 align="center">About Me</h2>
 
 <p align="center">
-  I'm an experienced security engineer, having worked for financial institutions and global companies.
+  I'm an experienced security engineer, having worked with financial institutions and global companies.
 </p>
 
 <p align="center">
-  I've seen many cyber incidents and learned a lot about the challenges of the Windows environment.
+  I've seen many cyber incidents and learned a lot about the security challenges of Windows environment.
 </p>
 
 <br><br>
