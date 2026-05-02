@@ -13,12 +13,10 @@
 <h2 align="center">About Me</h2>
 
 <p>
-  I'm an experienced security engineer, having worked with financial institutions and global companies.
+  I'm an experienced security engineer, having worked with financial institutions and global companies. After seeing many cyber incidents, I've gained deep insight into the security challenges of the Windows environment.
 </p>
 
-<p>
-  After seeing many cyber incidents, I’ve gained deep insight into the security challenges of the Windows environment.
-</p>
+<p>Security is often overlooked by everyday Windows users. Many people don't know how to check for vulnerabilities, suspicious processes, or insecure network activity. I wanted to create a tool that is simple, transparent, and educational, so users can understand their system's security posture without needing advanced expertise.</p>
 
 <br><br>
 
