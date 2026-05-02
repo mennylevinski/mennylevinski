@@ -18,7 +18,7 @@
 
 <p>Security is often overlooked by everyday Windows users. Many people don't know how to check for vulnerabilities, suspicious processes, or insecure network activity. I wanted to create a tool that is simple, transparent, and educational, so users can understand their system's security posture without needing advanced expertise.</p>
 
-<br><br>
+<br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/menny-levinski-b53708209" target="_blank">
@@ -35,7 +35,18 @@
   </a>
 </div>
 
-<br><br><br>
+<br>
+
+<div align="center">
+  <a href="https://vshymanskyy.github.io/StandWithUkraine">
+    <img 
+      src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg" 
+      alt="Stand With Ukraine"
+    />
+  </a>
+</div>
+
+<br>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cloudflare,linux,kali,github,python,powershell,mysql,visualstudio,azure,windows,html,css,wordpress,bots"/>
