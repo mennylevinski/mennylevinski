@@ -5,7 +5,7 @@
 </div>
 
 <div align="center" style="line-height: 0;">
-    <a href="https://github.com/secuditor">
+    <a href="github.com/mennylevinski">
         <img src="img/menny_image_readme.png" alt="Menahem" width="600" height="400">
     </a>
 </div>
