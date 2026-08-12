@@ -66,7 +66,7 @@
 <br>
 
 <p align="center"> 
-    <img src="https://streak-stats.demolab.com?user=mennylevinski&theme=tokyonight&hide_border=true&border_radius=12" width="60%" /> 
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mennylevinski&theme=holi" width="60%" /> 
 </p>
 
 
