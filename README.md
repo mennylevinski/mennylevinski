@@ -66,7 +66,7 @@
 <br>
 
 <p align="center"> 
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mennylevinski&theme=holi" width="60%" /> 
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mennylevinski&theme=holi" width="70%" /> 
 </p>
 
 
