@@ -54,8 +54,8 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/mennylevinski/core_net_scanner" title="Core Net Scanner – Network scanner, LAN discovery & port audit">
-    <img src="img/uspector_cover_official.png" alt="Core Net Scanner" width="600" height="400">
+  <a href="https://github.com/mennylevinski/net_scanner_core" title="Net Scanner Core – Network scanner, LAN discovery & port audit">
+    <img src="img/uspector_cover_official.png" alt="Net Scanner Core" width="600" height="400">
   </a>
 </div>
 
