@@ -55,7 +55,7 @@
 
 <div align="center">
   <a href="https://github.com/mennylevinski/uspector-net" title="A Python library for SSL/TLS security testing, certificate validation, and web diagnostics.">
-    <img src="img/uspector_cover_official.png" alt="Net Scanner Core" width="600" height="400">
+    <img src="img/uspector_cover_official.png" alt="Uspector" width="600" height="400">
   </a>
 </div>
 
